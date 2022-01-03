@@ -66,7 +66,7 @@ async def _(event):
                 reply_message.media.document,
                 mone,
                 dddd,
-                "Downloading...",
+                "Downloading...rukja bhai",
             )
             filename = downloaded_file_name.name
         except TypeError:
@@ -79,7 +79,7 @@ async def _(event):
         ms = (end - start).seconds
         required_file_name = filename
         await mone.edit(
-            f"Downloaded to `{filename}` in {ms} seconds.",
+            f"Downloaded hogya idhar `{filename}` {ms} seconds mai.",
         )
     elif input_str:
         input_str = input_str.strip()
@@ -87,7 +87,7 @@ async def _(event):
             end = datetime.now()
             ms = (end - start).seconds
             required_file_name = input_str
-            await mone.edit(f"Found `{input_str}` in {ms} seconds.")
+            await mone.edit(f"mil gaya `{input_str}` {ms} seconds mai.")
         else:
             return await eod(
                 mone,
