@@ -9,7 +9,7 @@ authors:
   - avish-kumar1
 
 # commons
-com_1: "`Processing...`"
+com_1: "`Working...`"
 com_2: "`Searching...`"
 # help
 help_1: "`{}` is not a valid plugin!"
@@ -47,9 +47,9 @@ afk_7: "Currently AFK with reason {}"
 afk_8: "Currently AFK."
 
 # bot
-alive_1: "**The Ultroid Userbot...**\n\n**{}**\n\n┏━━━━━━━━━━━━━━━━━━━━━\n┣ **Owner** - `{}`\n┣ **Version** - `{}`\n┣ **Py-Ultroid** - `{}`\n┣ **UpTime** - `{}`\n┣ **Python** - `{}`\n┣ **Telethon** - `{}`\n┣ **Branch** - `{}`\n┗━━━━━━━━━━━━━━━━━━━━━"
+alive_1: "**Daddy Xen BOT...**\n\n**{}**\n\n┏━━━━━━━━━━━━━━━━━━━━━\n┣ **Owner** - `{}`\n┣ **Version** - `{}`\n┣ **Py-Ultroid** - `{}`\n┣ **UpTime** - `{}`\n┣ **Python** - `{}`\n┣ **Telethon** - `{}`\n┣ **Branch** - `{}`\n┗━━━━━━━━━━━━━━━━━━━━━"
 log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
-ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
+ping: "**⚡️** `{}ms`\n**Uptime** - `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n-> **Dyno usage for** `{}`:\n  •  **{}h**  **{}m |** `[{}%]`\n-> **Dyno hours quota remaining this month**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 usage_simple: "**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 shutdown: "GoodBye {}.\n`Shutting down...`"
@@ -67,17 +67,17 @@ carbon_1: "Processing"
 carbon_2: "Carbonised by [{}](tg://user?id={})"
 
 # chats
-chats_1: "`Processing...`"
+chats_1: "`Working...`"
 chats_2: "`Cant delete this chat`"
-chats_3: "`I m not an admin`"
+chats_3: "`bhai admin toh bana de`"
 chats_4: "#Deleted\nDeleted {}"
 chats_5: "Your [{}]({}) Group Made Boss!"
-chats_6: "Join @TeamUltroid"
+chats_6: "@xenmods"
 
 # converter
 cvt_1: "Reply to any media/Document."
 cvt_2: "Give The name and extension of file"
-cvt_3: "`Processing...`"
+cvt_3: "`Ruk ja...`"
 cvt_4: "Reply to any media."
 
 # core
@@ -131,7 +131,7 @@ gdrive_3: "`Wrong Client Id`"
 gdrive_4: "`Something went wrong! Send `/auth` again.\nIf the same happens, contact `@TheUltroid"
 gdrive_5: "`Success!\nYou are all set to use Google Drive with Ultroid Userbot.`"
 gdrive_6: "`Go to `{}` and send ``/auth.`"
-gdrive_7: "**Successfully uploaded the file to G-Drive :**\n\n[{}]({})"
+gdrive_7: "**HOGYA Successfully uploaded the file to G-Drive :**\n\n[{}]({})"
 
 # pmpermit
 pmperm_1: "Please wait for me to respond or you will be blocked and reported as spam!!"
@@ -149,7 +149,7 @@ upd_7: "\n`Your BOT is`  **up-to-date**  `with`  **[[{}]]({}/tree/{})**\n"
 
 # upload download
 udl_1: "`Reply to the file/media you want to download...`"
-udl_2: "Download Successful..\nTo\n`{}`\nin `{}`"
+udl_2: "Download hogya..\nTo\n`{}`\nin `{}`"
 udl_3: "`Give a specific path to file`"
 
 # words
@@ -162,4 +162,4 @@ wrd_3: "**Word** - `{}`\n\n**Antonyms** - \n"
 # assisant
 ast_1: "Choose which API you want to set."
 ast_2: "**remove.bg API**\nEnter your API key from remove.bg.\n\nUse /cancel to terminate the operation."
-ast_3: "Hey {}. Please browse through the options"
+ast_3: "Hey {}. Options choose kar koi"
